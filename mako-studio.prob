@@ -1,0 +1,5 @@
+Different tags in source and translation
+  msgid: If the problem persists, please email us at {email_link}.
+  -----> Jika permasalahan tetap terjadi, email kami di {link email}
+  -----> "{email_link}" vs "{link email}"
+

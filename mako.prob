@@ -1,0 +1,5 @@
+Different tags in source and translation
+  msgid: Sign up with {provider_name}
+  -----> Daftar menggunakan {platform_name}
+  -----> "{provider_name}" vs "{platform_name}"
+

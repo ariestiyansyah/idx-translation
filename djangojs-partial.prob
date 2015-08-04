@@ -1,0 +1,42 @@
+Different tags in source and translation
+  msgid: Sequence error! Cannot navigate to %(tab_name)s in the current
+         SequenceModule. Please contact the course staff.
+  -----> Squence eror! Tidak dapat menavigasi ke %(tab_names)s pada
+         sequenceModule saat ini. Silakan hubungi staf kursus
+  -----> "%(tab_name)s" vs "%(tab_names)s"
+
+Different tags in source and translation
+  msgid: No results found for %(original_query)s. Showing results for
+         %(suggested_query)s.
+  -----> Tidak ada basil dari %(original_query). Tampilan hasil dari
+         %(suggested_query).
+  -----> "%(suggested_query)s", "%(original_query)s" missing
+
+Different tags in source and translation
+  msgid: Show posts by %(username)s.
+  -----> Menunjukkan kiriman berdasarkan %(username).
+  -----> "%(username)s" missing
+
+Different tags in source and translation
+  msgid: Error getting student progress url for '<%= student_id %>'. Make sure
+         that the student identifier is spelled correctly.
+  -----> Galat dalam pengambilan url progres pelajar pada '<%=student_id%>'.
+         Pastikan bahwa pengenal pelajar telah dieja dengan benar
+  -----> "<%= student_id %>" vs "<%=student_id%>"
+
+Different tags in source and translation
+  msgid: %(num_students)s student opened Subsection | %(num_students)s students
+         opened Subsection
+  -----> %(num_students) pelajar membuka Subseksi
+  -----> "%(num_students)s" missing
+
+Different tags in source and translation
+  msgid: %(num_students)s student | %(num_students)s students
+  -----> %(num_students) pelajar
+  -----> "%(num_students)s" missing
+
+Different tags in source and translation
+  msgid: %(num_questions)s question | %(num_questions)s questions
+  -----> %(num_questions) pertanyaan
+  -----> "%(num_questions)s" missing
+
