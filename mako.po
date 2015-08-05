@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: edx-platform\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
 "POT-Creation-Date: 2015-07-31 12:09+0000\n"
-"PO-Revision-Date: 2015-08-05 07:34+0700\n"
+"PO-Revision-Date: 2015-08-05 07:53+0700\n"
 "Last-Translator: Sarina Canelake <sarina@edx.org>\n"
 "Language-Team: Indonesian (http://www.transifex.com/open-edx/edx-platform/"
 "language/id/)\n"
@@ -230,7 +230,7 @@ msgstr ""
 
 #: cms/templates/widgets/footer.html lms/templates/static_templates/tos.html
 msgid "Terms of Service"
-msgstr "Ketentuan Layanan"
+msgstr "Ketentuan Pemakaian"
 
 #: cms/templates/widgets/footer.html
 #: lms/templates/static_templates/privacy.html
