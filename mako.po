@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: edx-platform\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
 "POT-Creation-Date: 2015-07-31 12:09+0000\n"
-"PO-Revision-Date: 2015-08-05 07:30+0700\n"
+"PO-Revision-Date: 2015-08-05 07:34+0700\n"
 "Last-Translator: Sarina Canelake <sarina@edx.org>\n"
 "Language-Team: Indonesian (http://www.transifex.com/open-edx/edx-platform/"
 "language/id/)\n"
@@ -167,19 +167,19 @@ msgstr "Nama Lengkap"
 #: cms/templates/register.html lms/templates/register.html
 #: lms/templates/verify_student/face_upload.html
 msgid "example: Jane Doe"
-msgstr "contoh: Budi Raharjo"
+msgstr "contoh: Rizky Ariestiyansyah"
 
 #: cms/templates/register.html lms/templates/register-shib.html
 #: lms/templates/register.html lms/templates/signup_modal.html
 msgid "Public Username"
-msgstr "Nama publik"
+msgstr "Nama Pengguna"
 
 #. Translators: This is the placeholder text for a field that asks the user to
 #. pick a username
 #: cms/templates/register.html lms/templates/register-shib.html
 #: lms/templates/register.html
 msgid "example: JaneDoe"
-msgstr "contoh: BudiRaharjo"
+msgstr "contoh: Ariestiyansyah"
 
 #: cms/templates/register.html
 #: lms/templates/dashboard/_dashboard_info_language.html
@@ -203,7 +203,7 @@ msgstr "Kebutuhan"
 #: cms/templates/studio_xblock_wrapper.html lms/templates/help_modal.html
 #: lms/templates/module-error.html
 msgid "Details"
-msgstr "Detil"
+msgstr "Rincian"
 
 #. Translators: this is a verb describing the action of viewing more details
 #: cms/templates/studio_xblock_wrapper.html
