@@ -167,24 +167,24 @@ msgstr "Nama Lengkap"
 #: cms/templates/register.html lms/templates/register.html
 #: lms/templates/verify_student/face_upload.html
 msgid "example: Jane Doe"
-msgstr "contoh: Budi Raharjo"
+msgstr "contoh: Rizky Ariestiyansyah"
 
 #: cms/templates/register.html lms/templates/register-shib.html
 #: lms/templates/register.html lms/templates/signup_modal.html
 msgid "Public Username"
-msgstr "Nama Publik"
+msgstr "Nama Pengguna"
 
 #. Translators: This is the placeholder text for a field that asks the user to
 #. pick a username
 #: cms/templates/register.html lms/templates/register-shib.html
 #: lms/templates/register.html
 msgid "example: JaneDoe"
-msgstr "contoh: BudiRaharjo"
+msgstr "contoh: Ariestiyansyah"
 
 #: cms/templates/register.html
 #: lms/templates/dashboard/_dashboard_info_language.html
 msgid "Preferred Language"
-msgstr "Bahasa Pilihan"
+msgstr "Pilihan Bahsa"
 
 #: cms/templates/settings.html
 #: lms/templates/instructor/instructor_dashboard_2/executive_summary.html
@@ -1193,9 +1193,10 @@ msgstr "Terjadi kesalahan saat memproses pendaftaran Anda:"
 #: lms/templates/register-shib.html lms/templates/register.html
 msgid ""
 "Required fields are noted by <strong class=\"indicator\">bold text and an "
+"asterisk (*)</strong>."
 msgstr ""
-"Kolom yang wajib diisi ditandai dengan <strong class=\"indicator\">teks "
-"tebal da"
+"Kolom yang wajib diisi ditandai <strong class=\"indicator\">teks tebal dan "
+"tanda bintang (*)</strong>."
 
 #: lms/templates/register-shib.html lms/templates/signup_modal.html
 msgid "Enter a public username:"
@@ -1241,9 +1242,14 @@ msgstr "Selamat datang di {platform_name}"
 
 #: lms/templates/register-sidebar.html
 msgid ""
-"Registering with {platform_name} gives you access to all of our current an"
+"Registering with {platform_name} gives you access to all of our current and "
+"future free courses. Not ready to take a course just yet? Registering puts "
+"you on our mailing list - we will update you as courses are added."
 msgstr ""
-"Mendaftar di {platform_name} memberikan Anda akses ke semua kursus grati"
+"Mendaftar di {platform_name} memberikan Anda akses ke semua kursus gratis "
+"kami saat ini dan nanti. Belum siap untuk mengikuti kursus? Mendaftar "
+"menyertakan anda pada mailing list kami - kami akan memberi tahu Anda "
+"begitu kursus-kursus baru ditambahkan."
 
 #: lms/templates/register-sidebar.html
 msgid "Next Steps"
@@ -1251,14 +1257,28 @@ msgstr "Langkah Berikutnya"
 
 #: lms/templates/register-sidebar.html
 msgid ""
-"You will receive an activation email.  You must click on the activation lin"
+"You will receive an activation email.  You must click on the activation "
+"link to complete the process.  Don't see the email?  Check your spam folder "
+"and mark emails from class.stanford.edu as 'not spam', since you'll want to "
+"be able to receive email from your courses."
 msgstr ""
-"Anda akan menerima email aktivasi. Anda harus klik tautan aktivasi untu"
+"Anda akan menerima email aktivasi. Anda harus mengklik tautan aktivasi "
+"untuk menyelesaikan proses pendaftaran. Tidak mendapati emailnya? Cek "
+"folder spam dan tandai email-email dari kami sebagai 'bukan spam', karena "
+"tentunya Anda ingin bisa menerima email dari kursus Anda."
 
 #: lms/templates/register-sidebar.html
 msgid ""
-"As part of joining {platform_name}, you will receive an activation email"
-msgstr "Setelah bergabung dengan {platform_name}, Anda akan menerim"
+"As part of joining {platform_name}, you will receive an activation email.  "
+"You must click on the activation link to complete the process.  Don't see "
+"the email?  Check your spam folder and mark {platform_name} emails as 'not "
+"spam'.  At {platform_name}, we communicate mostly through email."
+msgstr ""
+"Setelah bergabung dengan {platform_name}, Anda akan menerima "
+"email aktivasi. Anda harus mengklik tautan aktivasi untuk menyelesaikan "
+"proses pendaftaran. Tidak mendapatkan emailnya? Cek folder spam dan tandai "
+"email-email dari kami sebagai 'bukan spam'. Di {platform_name}, kami "
+"berkomunikasi terutama lewat email."
 
 #: lms/templates/register-sidebar.html
 msgid "Need help in registering with {platform_name}?"
@@ -1269,8 +1289,12 @@ msgid "View our FAQs for answers to commonly asked questions."
 msgstr "Lihat PSD untuk jawaban atas pertanyaan yang sering ditanyakan."
 
 #: lms/templates/register-sidebar.html
-msgid "Once registered, most questions can be answered in the course specifi"
-msgstr "Setelah terdaftar, kebanyakan pertanyaan dapat dijawab di forum diskus"
+msgid ""
+"Once registered, most questions can be answered in the course specific "
+"discussion forums or through the FAQs."
+msgstr ""
+"Setelah terdaftar, kebanyakan pertanyaan dapat dijawab di forum diskusi "
+"kursus atau lewat pertanyaan yang sering ditanyakan."
 
 #: lms/templates/register.html
 msgid "Register for {platform_name}"
