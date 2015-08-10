@@ -1777,12 +1777,23 @@ msgid "During video playback, use the subtitles and the scroll bar to navigate"
 msgstr "Selama pemutaran video, gunakan teks terjemahan untuk navigasi"
 
 #: lms/templates/using.html
-msgid "If you are on a low-resolution display, the left navigation bar can b"
-msgstr "Jika layar Anda berresolusi rendah, navigasi sisi kiri dapa"
+msgid ""
+"If you are on a low-resolution display, the left navigation bar can be "
+"hidden by clicking on the set of three left arrows next to it."
+msgstr ""
+"Jika layer Anda berresolusi rendah, navigasi sisi kiri dapat "
+"disembunyikan dengan klik pada serangkaian tiga panah kiri setelahnya."
 
 #: lms/templates/using.html
-msgid "If you need bigger or smaller fonts, use your browsers settings to scal"
-msgstr "Jika Anda butuh huruf yang lebih besar atau lebih kecil, gunaka"
+msgid ""
+"If you need bigger or smaller fonts, use your browsers settings to scale "
+"them up or down. Under Google Chrome, this is done by pressing ctrl-plus, "
+"or ctrl-minus at the same time."
+msgstr ""
+"Jika Anda membutuhkan huruf yang lebih besar atau lebih kecil, gunakan "
+"setelan browser Anda untuk mengubah skala naik atau turun. Pada Google "
+"Chrome, hal ini dilakukan dengan menekan ctrl-plus atau ctrl-minus pada "
+"waktu yang bersamaan."
 
 #: lms/templates/video.html
 msgid "Skip to a navigable version of this video's transcript."
@@ -1842,18 +1853,21 @@ msgstr "Kolom Masukkan Kalkulator"
 
 #: lms/templates/calculator/toggle_calculator.html
 msgid ""
-"Use the arrow keys to navigate the tips or use the tab key to return to th"
-msgstr "Gunakan arrow keys untuk mengendalikan ujung atau tab key untuk kembal"
+"Use the arrow keys to navigate the tips or use the tab key to return to the"
+"calculator"
+msgstr "Gunakan arrow keys untuk mengendalikan ujung atau tab key untuk kembali ke"
+"kalkulator"
 
 #: lms/templates/calculator/toggle_calculator.html
 msgid "Hints"
 msgstr "Petunjuk"
 
 #: lms/templates/calculator/toggle_calculator.html
-msgid "For detailed information, see {math_link_start}Entering Mathematical an"
+msgid ""
+"For detailed information, see {math_link_start}Entering Mathematical and "
+"Scientific Expressions{math_link_end} in the {guide_link_start}edX Guide "
+"for Students{guide_link_end}."
 msgstr ""
-"Untuk informasi detil, lihat {math_link_start} Masukkan Perintah "
-"Matematika{math_link_end"
 
 #: lms/templates/calculator/toggle_calculator.html
 msgid "Tips"
@@ -1861,9 +1875,10 @@ msgstr "Tips"
 
 #: lms/templates/calculator/toggle_calculator.html
 msgid ""
-"Use parentheses () to make expressions clear. You can use parentheses insid"
-msgstr ""
-"Gunakan tanda kurung () untuk memperjelas perintah. Anda bisa menggunaka"
+"Use parentheses () to make expressions clear. You can use parentheses "
+"inside other parentheses."
+msgstr "Gunakan tanda kurung () untuk memperjelas perintah. Anda bisa menggunakan"
+""
 
 #: lms/templates/calculator/toggle_calculator.html
 msgid "Do not use spaces in expressions."
