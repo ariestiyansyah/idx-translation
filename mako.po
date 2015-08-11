@@ -320,11 +320,13 @@ msgstr ""
 "{b_start}Resmi:{b_end} Dapatkan sertifikat yang telah ditandatangani "
 "instruktur beserta log"
 
-#: common/templates/course_modes/choose.html
+: common/templates/course_modes/choose.html
 msgid ""
-"{b_start}Easily shareable:{b_end} Add the certificate to your CV or resume"
+"{b_start}Easily shareable:{b_end} Add the certificate to your CV or resume, "
+"or post it directly on LinkedIn"
 msgstr ""
-"{b_start}Bagikan dengan mudah:{b_end} Tambahkan sertifikat pada CV atau Anda"
+"{b_start}Bagikan dengan mudah:{b_end} Menambah sertifikat pada CV anda atau "
+"resume, atau tayangkan langsung pada  LinkedIn"
 
 #: common/templates/course_modes/choose.html
 msgid "Pursue a Verified Certificate"
@@ -342,7 +344,7 @@ msgid ""
 "{b_start}Official: {b_end}Receive an instructor-signed certificate with th"
 msgstr ""
 "{b_start}Resmi: {b_end}Dapatkan sertifikat yang ditandatangani Instruktur "
-"denga"
+"dengan sukses"
 
 #: common/templates/course_modes/choose.html
 msgid ""
@@ -688,10 +690,13 @@ msgstr "Ajukan pertanyaan"
 
 #: lms/templates/help_modal.html
 msgid ""
-"Please note: The {platform_name} support team is English speaking. While w"
+"Please note: The {platform_name} support team is English speaking. While we "
+"will do our best to address your inquiry in any language, our responses will"
+" be in English."
 msgstr ""
-"Perlu dicatat: tim pendukung {platform_name} menggunakan bahasa Indonesia. "
-"Kami aka"
+"Perlu dicatat: {platform_name} tim support  menggunakan bahasa inggris. kami"
+" akan berusaha sebaik mungkin untuk  menjawab permintaan yang menggunakan "
+"beberapa bahasa , kami berusaha menjawab dengan bahasa inggris."
 
 #: lms/templates/help_modal.html
 #: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html
@@ -730,8 +735,15 @@ msgstr "Terima Kasih!"
 
 #: lms/templates/help_modal.html
 msgid ""
-"Thank you for your inquiry or feedback.  We typically respond to a reques"
-msgstr "Terima kasih atas pertanyaan atau saran Anda. Umumnya kami merespo"
+"Thank you for your inquiry or feedback.  We typically respond to a request "
+"within one business day (Monday to Friday, {open_time} UTC to {close_time} "
+"UTC.) In the meantime, please review our {link_start}detailed FAQs{link_end}"
+" where most questions have already been answered."
+msgstr ""
+"Terima kasih atas permintaan atau umpan balik Anda. Biasanya kami merespon "
+"dalam satu hari kerja  (Senin sampai Jumat, {open_time} 09.00 sampai "
+"{close_time} 17.00.) Sementara ini, harap tinjau {link_start}FAQ "
+"mendetil{link_end} kami di mana kebanyakan pertanyaan telah dijawab."
 
 #: lms/templates/help_modal.html
 msgid "problem"
@@ -925,8 +937,13 @@ msgstr "Sebuah kesalahan terjadi ketika Anda masuk {platform_name}."
 
 #: lms/templates/login.html
 msgid ""
-"Please provide the following information to log into your {platform_name"
-msgstr "Harap berikan informasi berikut untuk masuk ke akun {platform_name}"
+"Please provide the following information to log into your {platform_name} "
+"account. Required fields are noted by <strong class=\"indicator\">bold text "
+"and an asterisk (*)</strong>."
+msgstr ""
+"Harap berikan informasi berikut untuk masuk ke akun {platform_name}. Isian "
+"yang dibutuhkan ditandai dengan <strong class=\"indicator\">teks tebal dan "
+"tanda bintang (*)</strong>."
 
 #: lms/templates/login.html
 msgid "Account Preferences"
