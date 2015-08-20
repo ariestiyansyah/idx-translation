@@ -1,0 +1,1168 @@
+# edX translation file
+# Copyright (C) 2015 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# 
+# Translators:
+# EdX Team <info@edx.org>, 2014-2015
+# Translators:
+# cholif yulian <cholifyulian123@gmail.com>, 2015
+# Eka Y Saputra <ekajogja@ymail.com>, 2014
+# Rizky Ariestiyansyah <ariestiyansyah.rizky@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: edx-indonesiax\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2015-08-11 20:35+0000\n"
+"PO-Revision-Date: 2015-08-20 20:29+0000\n"
+"Last-Translator: Rizky Ariestiyansyah <ariestiyansyah.rizky@gmail.com>\n"
+"Language-Team: Indonesian (http://www.transifex.com/indonesiax/edx-indonesiax/language/id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: cms/templates/js/add-xblock-component-menu-problem.underscore:47
+#: cms/templates/js/add-xblock-component-menu.underscore:22
+#: cms/templates/js/certificate-editor.underscore:39
+#: cms/templates/js/content-group-editor.underscore:32
+#: cms/templates/js/course_info_handouts.underscore:20
+#: cms/templates/js/course_info_update.underscore:21
+#: cms/templates/js/edit-textbook.underscore:26
+#: cms/templates/js/group-configuration-editor.underscore:46
+#: cms/templates/js/section-name-edit.underscore:4
+#: cms/templates/js/xblock-string-field-editor.underscore:14
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:143
+msgid "Cancel"
+msgstr "Batal"
+
+#: cms/templates/js/asset-library.underscore:57
+#: cms/templates/js/basic-modal.underscore:17
+#: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore:6
+msgid "Actions"
+msgstr "Tindakan-Tindakan"
+
+#: cms/templates/js/certificate-editor.underscore:18
+#: cms/templates/js/group-configuration-editor.underscore:23
+#: lms/templates/commerce/receipt.underscore:19
+#: lms/templates/verify_student/payment_confirmation_step.underscore:19
+msgid "Description"
+msgstr "Deskripsi"
+
+#: cms/templates/js/certificate-editor.underscore:38
+#: cms/templates/js/content-group-editor.underscore:31
+#: cms/templates/js/course_info_handouts.underscore:19
+#: cms/templates/js/edit-textbook.underscore:25
+#: cms/templates/js/group-configuration-editor.underscore:45
+#: cms/templates/js/section-name-edit.underscore:3
+#: cms/templates/js/signatory-editor.underscore:10
+#: cms/templates/js/xblock-string-field-editor.underscore:13
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-course-wide.underscore:16
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-inline.underscore:35
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:141
+msgid "Save"
+msgstr "Simpan"
+
+#: cms/templates/js/course-outline.underscore:152
+#: lms/templates/ccx/schedule.underscore:6
+msgid "Due Date"
+msgstr "Batas Waktu"
+
+#: cms/templates/js/previous-video-upload-list.underscore:15
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:16
+msgid "Status"
+msgstr "Status"
+
+#: lms/templates/ccx/schedule.underscore:4
+msgid "Unit"
+msgstr "Unit"
+
+#: lms/templates/ccx/schedule.underscore:5
+msgid "Start Date"
+msgstr "Tanggal Mulai"
+
+#: lms/templates/ccx/schedule.underscore:8
+msgid "remove all"
+msgstr "hapus semua"
+
+#: lms/templates/ccx/schedule.underscore:22
+#: lms/templates/ccx/schedule.underscore:35
+#: lms/templates/ccx/schedule.underscore:45
+msgid "remove"
+msgstr "hapus"
+
+#: lms/templates/commerce/provider.underscore:3
+#: lms/templates/commerce/provider.underscore:6
+#: lms/templates/commerce/receipt.underscore:4
+#: lms/templates/discovery/course_card.underscore:15
+msgid "gettext("
+msgstr "gettext("
+
+#: lms/templates/commerce/provider.underscore:15
+#, python-format
+msgid "<img src='%s' alt='%s'></image>"
+msgstr "<img src='%s' alt='%s'></image>"
+
+#: lms/templates/commerce/provider.underscore:18
+#, python-format
+msgid ""
+"<button data-provider=\"%s\" data-course-key=\"%s\" data-username=\"%s\" "
+"class=\"complete-course\" onClick=completeOrder(this)>%s</button>"
+msgstr "<button data-provider=\"%s\" data-course-key=\"%s\" data-username=\"%s\" class=\"complete-course\" onClick=completeOrder(this)>%s</button>"
+
+#: lms/templates/commerce/receipt.underscore:11
+#: lms/templates/verify_student/payment_confirmation_step.underscore:11
+msgid ""
+"Please print this page for your records; it serves as your receipt. You will"
+" also receive an email with the same information."
+msgstr "Silakan cetak halaman ini untuk catatan Anda; dokumen ini berlaku sebagai tanda terima. Anda juga akan menerima sebuah email dengan informasi yang sama."
+
+#: lms/templates/commerce/receipt.underscore:18
+#: lms/templates/verify_student/payment_confirmation_step.underscore:18
+msgid "Order No."
+msgstr "Nomer Urutan"
+
+#: lms/templates/commerce/receipt.underscore:20
+#: lms/templates/verify_student/payment_confirmation_step.underscore:20
+msgid "Date"
+msgstr "Tanggal"
+
+#: lms/templates/commerce/receipt.underscore:21
+#: lms/templates/verify_student/payment_confirmation_step.underscore:21
+msgid "Amount"
+msgstr "Jumlah"
+
+#: lms/templates/commerce/receipt.underscore:45
+#: lms/templates/verify_student/payment_confirmation_step.underscore:45
+msgid "Total"
+msgstr "Total"
+
+#: lms/templates/commerce/receipt.underscore:56
+#: lms/templates/verify_student/payment_confirmation_step.underscore:56
+msgid "Please Note"
+msgstr "Harap dicatat"
+
+#: lms/templates/commerce/receipt.underscore:58
+#: lms/templates/verify_student/payment_confirmation_step.underscore:58
+msgid "Crossed out items have been refunded."
+msgstr "Item-item yang dicoret telah didanai ulang"
+
+#: lms/templates/commerce/receipt.underscore:66
+#: lms/templates/verify_student/payment_confirmation_step.underscore:65
+msgid "Billed to"
+msgstr "Ditagih ke"
+
+#: lms/templates/commerce/receipt.underscore:82
+#: lms/templates/verify_student/payment_confirmation_step.underscore:77
+msgid "No receipt available"
+msgstr "Tidak ada tanda terima yang tersedia"
+
+#: lms/templates/commerce/receipt.underscore:87
+msgid "Go to Dashboard"
+msgstr "Menuju dashboard"
+
+#: lms/templates/commerce/receipt.underscore:89
+#: lms/templates/verify_student/payment_confirmation_step.underscore:135
+#, python-format
+msgid ""
+"If you don't verify your identity now, you can still explore your course "
+"from your dashboard. You will receive periodic reminders from "
+"%(platformName)s to verify your identity."
+msgstr "Jika Anda tidak melakukan verifikasi terhadap identitas Anda sekarang, Anda tetap dapat menelusuri kursus Anda melalui dashboard. Anda akan menerima pemberitahuan secara berkala dari %(platformName)s terkait verifikasi indentitas Anda."
+
+#: lms/templates/commerce/receipt.underscore:90
+#: lms/templates/verify_student/payment_confirmation_step.underscore:136
+msgid "Want to confirm your identity later?"
+msgstr "Ingin konfirmasi identitas anda nanti?"
+
+#: lms/templates/commerce/receipt.underscore:97
+msgid "Verify Now"
+msgstr "Verifikasi sekarang"
+
+#: lms/templates/dashboard/donation.underscore:5
+msgid "Donate"
+msgstr "Donasi"
+
+#: lms/templates/discovery/course_card.underscore:6
+msgid "LEARN MORE"
+msgstr "BELAJAR LEBIH BANYAK"
+
+#: lms/templates/discovery/course_card.underscore:21
+msgid "Starts"
+msgstr "Mulai"
+
+#: lms/templates/discovery/facet.underscore:10
+#: lms/templates/edxnotes/note-item.underscore:9
+msgid "More"
+msgstr "Lebih banyak"
+
+#: lms/templates/discovery/facet.underscore:13
+#: lms/templates/edxnotes/note-item.underscore:7
+msgid "Less"
+msgstr "Kurang"
+
+#: lms/templates/discovery/filter_bar.underscore:3
+msgid "Clear All"
+msgstr "Hapus semua"
+
+#: lms/templates/edxnotes/note-item.underscore:3
+msgid "Highlighted text"
+msgstr "Teks yang disorot"
+
+#: lms/templates/edxnotes/note-item.underscore:17
+msgid "Note"
+msgstr "Catatan"
+
+#: lms/templates/edxnotes/note-item.underscore:19
+msgid "You commented..."
+msgstr "Anda berkomentar..."
+
+#: lms/templates/edxnotes/note-item.underscore:28
+msgid "Noted in:"
+msgstr "Dicatat di:"
+
+#: lms/templates/edxnotes/note-item.underscore:35
+msgid "Last Edited:"
+msgstr "Perubahan Terakhir:"
+
+#: lms/templates/edxnotes/note-item.underscore:39
+msgid "Tags:"
+msgstr "Label:"
+
+#: lms/templates/edxnotes/tab-item.underscore:4
+msgid "name"
+msgstr "nama"
+
+#: lms/templates/edxnotes/tab-item.underscore:10
+msgid "Clear search results"
+msgstr "Bersihkan hasil pencarian"
+
+#: lms/templates/fields/field_dropdown.underscore:29
+#: lms/templates/fields/field_textarea.underscore:17
+msgid "Click to edit"
+msgstr "Klik untuk mengedit"
+
+#: lms/templates/fields/field_text.underscore:2
+msgid "title"
+msgstr "Judul"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-course-wide.underscore:1
+#: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:54
+msgid "Specify whether discussion topics are divided by cohort"
+msgstr "Tentukan apakah topik diskusi dipisahkan per kelompok"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-course-wide.underscore:7
+msgid "Course-Wide Discussion Topics"
+msgstr "Topik-Topik Diskusi mengenai Kursus"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-course-wide.underscore:8
+msgid ""
+"Select the course-wide discussion topics that you want to divide by cohort."
+msgstr "Pilih topik-topik diskusi kursus yang Anda ingin pisahkan berdasarkan kelompok"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-inline.underscore:8
+msgid "Content-Specific Discussion Topics"
+msgstr "Berisi-Topik diskusi secara spesifik"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-inline.underscore:9
+msgid ""
+"Specify whether content-specific discussion topics are divided by cohort."
+msgstr "Tentukan apakah topik-topik diskusi mengenai konten khusus dipisahkan per kelompok"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-inline.underscore:13
+msgid "Always cohort content-specific discussion topics"
+msgstr "Selalu kelompokkan topik-topik diskusi mengenai konten khusus"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-inline.underscore:19
+msgid "Cohort selected content-specific discussion topics"
+msgstr "Kelompokkan topik-topik diskusi konten khusus yang terpilih"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-inline.underscore:27
+msgid "No content-specific discussion topics exist."
+msgstr "Tidak ada topik diskusi mengenai konten khusus "
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-subcategory.underscore:6
+msgid "Cohorted"
+msgstr "Dikelompokkan"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:5
+msgid "Selected tab"
+msgstr "Tab yang dipilih"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:5
+msgid "Manage Students"
+msgstr "Kelola (data) Siswa-Siswa"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:6
+msgid "Settings"
+msgstr "Setelan"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:12
+msgid "Add students to this cohort"
+msgstr "Tambahkan Siswa-Siswa ke kelompok ini"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:15
+msgid ""
+"Note: Students can be in only one cohort. Adding students to this group "
+"overrides any previous group assignment."
+msgstr "Catatan: Siswa-Siswa hanya boleh ada di dalam satu kelompok. Menambahkan Siswa-Siswa ke grup ini akan menghapus penempatan grup sebelumnya"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:24
+msgid ""
+"Enter email addresses and/or usernames, separated by new lines or commas, "
+"for the students you want to add. *"
+msgstr "Masukkan alamat email dan/atau nama pengguna, dipisahkan oleh baris baru atau tanda koma, untuk Siswa-Siswa yang ingin Anda tambahkan.*"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:25
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:26
+msgid "(Required Field)"
+msgstr "(Kolom yang harus Diisi)"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:29
+msgid "e.g. johndoe@example.com, JaneDoe, joeydoe@example.com"
+msgstr "Contoh: johndoe@example.com, JaneDoe, joeydoe@example.com"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:32
+msgid ""
+"You will not receive notification for emails that bounce, so double-check "
+"your spelling."
+msgstr "Anda tidak akan menerima notifikasi untuk email-email yang tidak dapat terkirim (bounce email), harap periksa ulang ejaan Anda."
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:38
+msgid "Add Students"
+msgstr "Tambahkan Siswa-Siswa"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:5
+msgid "Add a New Cohort"
+msgstr "Tambahkan sebuah Kelompok Baru"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:19
+msgid "Enter the name of the cohort"
+msgstr "Masukkan nama kelompok"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:25
+msgid "Cohort Name"
+msgstr "Nama Kelompok"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:38
+msgid "Cohort Assignment Method"
+msgstr "Metode Penempatan Kelompok"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:41
+msgid "Automatic"
+msgstr "Otomatis"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:44
+msgid "Manual"
+msgstr "Manual"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:50
+msgid ""
+"There must be one cohort to which students can automatically be assigned."
+msgstr "Harus ada satu kelompok dimana Siswa-Siswa dapat secara otomatis ditempatkan"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:56
+msgid "Associated Content Group"
+msgstr "Grup Konten yang terkait"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:58
+msgid "No Content Group"
+msgstr "Tidak ada Grup Konten"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:60
+msgid "Select a Content Group"
+msgstr "Pilih sebuah Grup Konten"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:63
+msgid "Choose a content group to associate"
+msgstr "Pilih sebuah grup konten untuk dihubungkan"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:65
+msgid "Not selected"
+msgstr "Tidak terpilih"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:87
+msgid "Deleted Content Group"
+msgstr "Grup Konten yang dihapus"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:126
+msgid "Create a content group"
+msgstr "Membuat sebuah grup konten"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:5
+#, python-format
+msgid "(contains %(student_count)s student)"
+msgid_plural "(contains %(student_count)s students)"
+msgstr[0] "(contains %(student_count)s student)"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:14
+msgid ""
+"Students are added to this cohort only when you provide their email "
+"addresses or usernames on this page."
+msgstr "Siswa-Siswa hanya akan ditambahkan ke kelompok ini jika Anda memberikan alamat email atau nama pengguna mereka pada halaman ini."
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:15
+#: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:18
+msgid "What does this mean?"
+msgstr "Apa arti dari ini?"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:17
+msgid "Students are added to this cohort automatically."
+msgstr "Siswa-siswa ditambahkan ke dalam cohort ini secara otomatis"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-selector.underscore:2
+msgid "Select a cohort"
+msgstr "Pilih sebuah kelompok"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohort-selector.underscore:7
+#, python-format
+msgid "%(cohort_name)s (%(user_count)s)"
+msgstr "%(cohort_name)s (%(user_count)s)"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:2
+msgid "Enable Cohorts"
+msgstr "Aktifkan Kelompok-Kelompok"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:11
+msgid "Select a cohort to manage"
+msgstr "Pilih sebuah kelompok untuk dikelola"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:16
+msgid "View Cohort"
+msgstr "Lihat Kelompok"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:22
+msgid "Add Cohort"
+msgstr "Tambahkan Cohort"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:37
+msgid "Assign students to cohorts by uploading a CSV file"
+msgstr "Menempatkan siswa-siswa ke kelompok-kelompok dengan menggunggah file CSV"
+
+#: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:44
+#, python-format
+msgid ""
+"To review student cohort assignments or see the results of uploading a CSV "
+"file, download course profile information or cohort results on "
+"%(link_start)s the Data Download page. %(link_end)s"
+msgstr "Untuk melihat penempatan-penempatan kelompok Siswa atau hasil penggunggahan sebuah file CSV, unduh informasi profil kursus atau hasil-hasil pengelompokan pada halaman Unduh Daata %(link_start)s. %(link_end)s"
+
+#: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore:3
+msgid "Code"
+msgstr "Kode"
+
+#: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore:4
+msgid "Used"
+msgstr "Telah Digunakan"
+
+#: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore:5
+msgid "Valid"
+msgstr "Valid"
+
+#: lms/templates/search/course_search_item.underscore:2
+#: lms/templates/search/dashboard_search_item.underscore:2
+msgid "View"
+msgstr "Tampilkan"
+
+#: lms/templates/search/course_search_results.underscore:2
+#: lms/templates/search/dashboard_search_results.underscore:3
+msgid "Search Results"
+msgstr "Hasil pencarian"
+
+#: lms/templates/search/course_search_results.underscore:13
+#: lms/templates/search/dashboard_search_results.underscore:14
+#, python-format
+msgid "Load next %(num_items)s result"
+msgid_plural "Load next %(num_items)s results"
+msgstr[0] "Memuat hasil-hasil berikutnya %(num_items)s "
+
+#: lms/templates/search/course_search_results.underscore:23
+#: lms/templates/search/dashboard_search_results.underscore:24
+msgid "Sorry, no results were found."
+msgstr "Maaf, tidak ada hasil yang ditemukan"
+
+#: lms/templates/search/dashboard_search_results.underscore:2
+msgid "Back to Dashboard"
+msgstr "Kembali ke Dashboard"
+
+#: lms/templates/search/search_error.underscore:1
+msgid "There was an error, try searching again."
+msgstr "Terjadi kesalahan, coba lakukan pencarian ulang."
+
+#: lms/templates/search/search_loading.underscore:1
+#: lms/templates/student_account/account_settings.underscore:14
+msgid "Loading"
+msgstr "Memuat"
+
+#: lms/templates/student_account/account.underscore:2
+msgid "New Address"
+msgstr "Alamat Baru"
+
+#: lms/templates/student_account/account.underscore:6
+msgid "Password"
+msgstr "Sandi"
+
+#: lms/templates/student_account/account.underscore:11
+msgid "Change My Email Address"
+msgstr "Ubah alamat email Saya"
+
+#: lms/templates/student_account/account.underscore:16
+msgid "Reset Password"
+msgstr "Ganti Kata Sandi"
+
+#: lms/templates/student_account/account_settings.underscore:3
+msgid "Account Settings"
+msgstr "Penyetelan Akun"
+
+#: lms/templates/student_account/account_settings.underscore:4
+msgid ""
+"These settings include basic information about your account. You can also "
+"specify additional information and see your linked social accounts on this "
+"page."
+msgstr "Penyetelan-Penyetelan ini termasuk informasi dasar mengenai akun Anda. Anda dapat juga memberikan informasi tambahan dan melihat akun-akun social media yang telah terhubung pada halaman ini."
+
+#: lms/templates/student_account/account_settings.underscore:10
+msgid "section.title"
+msgstr "Judul Bab"
+
+#: lms/templates/student_account/account_settings.underscore:18
+#: lms/templates/student_profile/learner_profile.underscore:14
+msgid "An error occurred. Please reload the page."
+msgstr "Terjadi kesalahan, silakan muat ulang halaman"
+
+#: lms/templates/student_account/form_field.underscore:66
+msgid "Forgot password?"
+msgstr "Lupa kata sandi?"
+
+#: lms/templates/student_account/hinted_login.underscore:4
+#: lms/templates/student_account/login.underscore:34
+#: lms/templates/student_account/login.underscore:49
+#: lms/templates/student_account/register.underscore:71
+msgid "Sign in"
+msgstr "Masuk"
+
+#: lms/templates/student_account/hinted_login.underscore:8
+#, python-format
+msgid "Would you like to sign in using your %(providerName)s credentials?"
+msgstr "Apakah Anda ingin masuk menggunakan data pribadi Anda %(providerName)s?"
+
+#: lms/templates/student_account/hinted_login.underscore:12
+#, python-format
+msgid "Sign in using %(providerName)s"
+msgstr "Masuk menggunakan %(providerName)s"
+
+#: lms/templates/student_account/hinted_login.underscore:17
+#: lms/templates/student_account/institution_login.underscore:24
+#: lms/templates/student_account/institution_register.underscore:24
+msgid "or"
+msgstr "atau"
+
+#: lms/templates/student_account/hinted_login.underscore:22
+msgid "Show me other ways to sign in or register"
+msgstr "Tunjukkan cara lain untuk masuk atau mendaftar"
+
+#: lms/templates/student_account/institution_login.underscore:5
+msgid "Sign in with Institution/Campus Credentials"
+msgstr "Masuk dengan menggunakan data Lembaga/Kampus"
+
+#: lms/templates/student_account/institution_login.underscore:10
+#: lms/templates/student_account/institution_register.underscore:10
+msgid "Choose your institution from the list below:"
+msgstr "Pilih lembaga Anda melalui daftar di bawah ini:"
+
+#: lms/templates/student_account/institution_login.underscore:29
+msgid "Back to sign in"
+msgstr "Kembali untuk masuk"
+
+#: lms/templates/student_account/institution_register.underscore:5
+msgid "Register with Institution/Campus Credentials"
+msgstr "Mendaftar dengan Data Lembaga/Kampus"
+
+#: lms/templates/student_account/institution_register.underscore:29
+msgid "Register through edX"
+msgstr "Mendaftar melalui IndonesiaX"
+
+#: lms/templates/student_account/login.underscore:4
+#, python-format
+msgid ""
+"You have successfully signed into %(currentProvider)s, but your "
+"%(currentProvider)s account does not have a linked %(platformName)s account."
+" To link your accounts, sign in now using your %(platformName)s password."
+msgstr "Anda telah berhasil masuk ke %(currentProvider)s, tetapi akun Anda %(currentProvider)s tidak memiliki akun %(platformName)s yang terhubung . Untuk menghubungkan akun Anda, masuk sekarang menggunakan kata sandi %(platformName)s  Anda."
+
+#: lms/templates/student_account/login.underscore:10
+msgid "Password Reset Email Sent"
+msgstr "Email Penggantian Kata Sandi Dikirim"
+
+#: lms/templates/student_account/login.underscore:13
+msgid ""
+"We've sent instructions for resetting your password to the email address you"
+" provided."
+msgstr "Kami telah mengirim beberapa instruksi ke alamat email yang anda sediakan untuk menyetel ulang kata sandi Anda."
+
+#: lms/templates/student_account/login.underscore:19
+msgid "We couldn't sign you in."
+msgstr "Kami tidak dapat memasukkan Anda"
+
+#: lms/templates/student_account/login.underscore:25
+#, python-format
+msgid "An error occurred when signing you in to %(platformName)s."
+msgstr "Terjadi kesalahan ketika masuk ke %(platformName)s."
+
+#: lms/templates/student_account/login.underscore:40
+msgid ""
+"Sign in here using your email address and password, or use one of the "
+"providers listed below."
+msgstr "Masuk dengan menggunakan alamat email dan kata sandi Anda, atau gunakan salah satu dari provider yang terdaftar di bawah ini."
+
+#: lms/templates/student_account/login.underscore:42
+msgid "Sign in here using your email address and password."
+msgstr "Masuk dengan menggunakan alamat email dan kata sandi Anda. "
+
+#: lms/templates/student_account/login.underscore:44
+msgid "If you do not yet have an account, use the button below to register."
+msgstr "Jika Anda belum memiliki akun, gunakan tombol di bawah ini untuk mendaftar."
+
+#: lms/templates/student_account/login.underscore:55
+msgid "or sign in with"
+msgstr "atau masuk dengan"
+
+#: lms/templates/student_account/login.underscore:64
+#, python-format
+msgid "Sign in with %(providerName)s"
+msgstr "Masuk dengan menggunakan %(providerName)s"
+
+#: lms/templates/student_account/login.underscore:71
+#: lms/templates/student_account/register.underscore:42
+msgid "Use my institution/campus credentials"
+msgstr "Gunakan data lembaga/kampus Saya"
+
+#: lms/templates/student_account/login.underscore:81
+#, python-format
+msgid "New to %(platformName)s?"
+msgstr "Baru di %(platformName)s?"
+
+#: lms/templates/student_account/login.underscore:84
+msgid "Create an account"
+msgstr "Buat sebuah akun"
+
+#: lms/templates/student_account/password_reset.underscore:2
+#: lms/templates/student_account/register.underscore:10
+msgid "An error occurred."
+msgstr "Terjadi kesalahan."
+
+#: lms/templates/student_account/password_reset.underscore:10
+msgid "Password assistance"
+msgstr "Bantuan kata sandi"
+
+#: lms/templates/student_account/password_reset.underscore:14
+msgid ""
+"Please enter your email address below and we will send you instructions for "
+"setting a new password."
+msgstr "Silakan masuk ke alamat email anda dibawah dan kami akan mengirimkan anda instruksi-instruksi untuk menyetel kata sandi baru anda"
+
+#: lms/templates/student_account/password_reset.underscore:18
+msgid "Reset my password"
+msgstr "Reset kata sandi saya"
+
+#: lms/templates/student_account/register.underscore:2
+msgid "We couldn't create your account."
+msgstr "Kami tidak dapat membuat akun Anda"
+
+#: lms/templates/student_account/register.underscore:18
+#, python-format
+msgid "You've successfully signed into %(currentProvider)s."
+msgstr "Anda telah sukses masuk ke dalam %(currentProvider)s."
+
+#: lms/templates/student_account/register.underscore:19
+#, python-format
+msgid ""
+"We just need a little more information before you start learning with "
+"%(platformName)s."
+msgstr "Kami hanya membutuhkan sedikit lagi informasi sebelum Anda mulai belajar dengan %(platformName)s."
+
+#: lms/templates/student_account/register.underscore:26
+msgid "Create an account using"
+msgstr "Buat akun menggunakan "
+
+#: lms/templates/student_account/register.underscore:35
+#, python-format
+msgid "Create account using %(providerName)s."
+msgstr "Buat akun menggunakan %(providerName)s."
+
+#: lms/templates/student_account/register.underscore:48
+msgid "or create a new one here"
+msgstr "atau buatlah satu yang baru disini"
+
+#: lms/templates/student_account/register.underscore:54
+msgid "Create a new account"
+msgstr "Buat akun baru"
+
+#: lms/templates/student_account/register.underscore:61
+msgid "Create your account"
+msgstr "Buat akun Anda"
+
+#: lms/templates/student_account/register.underscore:62
+msgid "Required field"
+msgstr "Kolom yang harus diisi"
+
+#: lms/templates/student_account/register.underscore:68
+msgid "Already have an account?"
+msgstr "Telah memiliki akun?"
+
+#: lms/templates/student_profile/learner_profile.underscore:20
+msgid "You are currently sharing a limited profile."
+msgstr "Anda sekarang sedang membagi profil yang terbatas"
+
+#: lms/templates/student_profile/learner_profile.underscore:22
+msgid "This edX learner is currently sharing a limited profile."
+msgstr "Siswa IndonesiaX ini sedang membagi profil terbatas."
+
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:3
+#, python-format
+msgid "Congratulations! You are now verified on %(platformName)s!"
+msgstr "Selamat! Anda sekarang telah terverifikasi pada %(platformName)s!"
+
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:5
+msgid "You are now enrolled as a verified student for:"
+msgstr "Anda sekarang terdaftar sebagai pelajar terverifikasi pada:"
+
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:12
+msgid "A list of courses you have just enrolled in as a verified student"
+msgstr "Daftar kursus dimana Anda baru saja mendaftar sebagai siswa yang terverifikasi"
+
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:15
+msgid "Course"
+msgstr "Kursus"
+
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:24
+#, python-format
+msgid "Starts: %(start)s"
+msgstr "Mulai: %(start)s"
+
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:33
+msgid "Explore your course!"
+msgstr "Jelajahi kursus anda!"
+
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:37
+msgid "Go to your Dashboard"
+msgstr "Menuju dashboard Anda"
+
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:48
+msgid "Verified Status"
+msgstr "Status terverifikasi"
+
+#: lms/templates/verify_student/enrollment_confirmation_step.underscore:50
+#, python-format
+msgid ""
+"Thank you for submitting your photos. We will review them shortly. You can "
+"now sign up for any %(platformName)s course that offers verified "
+"certificates. Verification is good for one year. After one year, you must "
+"submit photos for verification again."
+msgstr "Terimakasih Anda telah mengirimkan foto Anda. Kami akan melakukan review sesaat lagi. Anda dapat mendaftar untuk semua kurus %(platformName)s yang menawarkan sertifikat terverifikasi. Verifikasi berlaku selama satu tahun. Setelah satu tahun, anda harus mengiriman foto untuk diverifikasi kembali."
+
+#: lms/templates/verify_student/error.underscore:6
+msgid "Error:"
+msgstr "Kesalahan:"
+
+#: lms/templates/verify_student/face_photo_step.underscore:4
+msgid "What You Need for Verification"
+msgstr "Apa yang Anda perlukan untuk verifikasi"
+
+#: lms/templates/verify_student/face_photo_step.underscore:6
+#: lms/templates/verify_student/intro_step.underscore:57
+#: lms/templates/verify_student/make_payment_step.underscore:70
+#: lms/templates/verify_student/payment_confirmation_step.underscore:121
+msgid "Webcam"
+msgstr "Webcam"
+
+#: lms/templates/verify_student/face_photo_step.underscore:7
+msgid ""
+"You need a computer that has a webcam. When you receive a browser prompt, "
+"make sure that you allow access to the camera."
+msgstr "Anda membutuhkan komputer yang memiliki webcam. Ketika anda menerima pesan browser, pastikan bahwa Anda membolehkan akses ke kamera."
+
+#: lms/templates/verify_student/face_photo_step.underscore:10
+msgid "Photo Identification"
+msgstr "Identifikasi Photo"
+
+#: lms/templates/verify_student/face_photo_step.underscore:11
+msgid ""
+"You need a driver's license, passport, or other government-issued ID that "
+"has your name and photo."
+msgstr "Anda membutuhkan SIM, paspor, atau kartu identitas lain yang diterbitkan pemerintah dengan nama dan foto Anda."
+
+#: lms/templates/verify_student/face_photo_step.underscore:17
+#: lms/templates/verify_student/incourse_reverify.underscore:3
+msgid "Take Your Photo"
+msgstr "Ambil foto Anda"
+
+#: lms/templates/verify_student/face_photo_step.underscore:19
+#, python-format
+msgid ""
+"When your face is in position, use the camera button %(icon)s below to take "
+"your photo."
+msgstr "Ketika wajah anda berada dalam posisi, gunakan tombol kamera  %(icon)s dibawah untuk mengambil foto anda"
+
+#: lms/templates/verify_student/face_photo_step.underscore:25
+msgid "To take a successful photo, make sure that:"
+msgstr "Untuk mengambil foto dengan sukses, pastikan bahwa:"
+
+#: lms/templates/verify_student/face_photo_step.underscore:29
+msgid "Your face is well-lit."
+msgstr "Wajah Anda terlihat dengan jelas."
+
+#: lms/templates/verify_student/face_photo_step.underscore:30
+msgid "Your entire face fits inside the frame."
+msgstr "Seluruh wajah anda pas di dalam frame"
+
+#: lms/templates/verify_student/face_photo_step.underscore:31
+msgid "The photo of your face matches the photo on your ID."
+msgstr "Photo wajah anda sesuai dengan photo pada ID anda"
+
+#: lms/templates/verify_student/face_photo_step.underscore:34
+#, python-format
+msgid ""
+"To use the current photo, select the camera button %(icon)s. To take another"
+" photo, select the retake button %(icon)s."
+msgstr "Untuk menggunakan foto ini, pilih tombol camera %(icon)s. Untuk mengambil foto lain, pilih tombol Foto Ulang %(icon)s."
+
+#: lms/templates/verify_student/face_photo_step.underscore:39
+#: lms/templates/verify_student/id_photo_step.underscore:30
+#: lms/templates/verify_student/incourse_reverify.underscore:29
+msgid "Frequently Asked Questions"
+msgstr "Pertanyaan yang Sering Ditanyakan"
+
+#: lms/templates/verify_student/face_photo_step.underscore:43
+#: lms/templates/verify_student/id_photo_step.underscore:35
+#: lms/templates/verify_student/incourse_reverify.underscore:33
+#, python-format
+msgid "Why does %(platformName)s need my photo?"
+msgstr "Mengapa %(platformName)s memerlukan foto saya?"
+
+#: lms/templates/verify_student/face_photo_step.underscore:45
+#: lms/templates/verify_student/id_photo_step.underscore:37
+#: lms/templates/verify_student/incourse_reverify.underscore:35
+msgid ""
+"As part of the verification process, you take a photo of both your face and "
+"a government-issued photo ID. Our authorization service confirms your "
+"identity by comparing the photo you take with the photo on your ID."
+msgstr "Sebagai bagian dari proses verifikasi, anda harus mengambil foto baik wajah Anda dan foto dari kartu identitas Anda. Layanan otorisasi kami akan mengkonfirmasi identitas Anda dengan mencocokkan foto yang Anda ambil dengan foto pada kartu identitas Anda."
+
+#: lms/templates/verify_student/face_photo_step.underscore:47
+#: lms/templates/verify_student/id_photo_step.underscore:40
+#: lms/templates/verify_student/incourse_reverify.underscore:37
+#, python-format
+msgid "What does %(platformName)s do with this photo?"
+msgstr "Apa yang %(platformName)s lakukan dengan foto ini?"
+
+#: lms/templates/verify_student/face_photo_step.underscore:49
+#: lms/templates/verify_student/id_photo_step.underscore:42
+#: lms/templates/verify_student/incourse_reverify.underscore:39
+#, python-format
+msgid ""
+"We use the highest levels of security available to encrypt your photo and "
+"send it to our authorization service for review. Your photo and information "
+"are not saved or visible anywhere on %(platformName)s after the verification"
+" process is complete."
+msgstr "Kami menggunakan tingkat pengamanan level tertinggi untuk mengenkripsi foto anda dan mengirimkannya ke layanan otorisasi kami untuk direview. Foto dan informasi Anda tidak disimpan atau bisa dilihat di manapun di %(platformName)s setelah proses verifikasi selesai."
+
+#: lms/templates/verify_student/face_photo_step.underscore:63
+#: lms/templates/verify_student/id_photo_step.underscore:53
+#: lms/templates/verify_student/intro_step.underscore:76
+#: lms/templates/verify_student/payment_confirmation_step.underscore:144
+#, python-format
+msgid "Next: %(nextStepTitle)s"
+msgstr "Selanjutnya: %(nextStep Title)s"
+
+#: lms/templates/verify_student/id_photo_step.underscore:3
+msgid "Take a Photo of Your ID"
+msgstr "Ambil foto kartu identitas Anda"
+
+#: lms/templates/verify_student/id_photo_step.underscore:5
+msgid ""
+"Use your webcam to take a photo of your ID. We will match this photo with "
+"the photo of your face and the name on your account."
+msgstr "Gunakan webcam Anda untuk mengambil foto di kartu identitas Anda. Kami akan mencocokkan foto ini dengan foto wajah dan nama pada akun Anda."
+
+#: lms/templates/verify_student/id_photo_step.underscore:13
+msgid ""
+"You need an ID with your name and photo. A driver's license, passport, or "
+"other government-issued IDs are all acceptable."
+msgstr "Anda membutuhkan kartu identitas dengan nama dan foto Anda. SIM, paspor, atau kartu identitas lainnya dapat diterima."
+
+#: lms/templates/verify_student/id_photo_step.underscore:15
+#: lms/templates/verify_student/incourse_reverify.underscore:13
+msgid "Tips on taking a successful photo"
+msgstr "Tips dalam mengambil foto"
+
+#: lms/templates/verify_student/id_photo_step.underscore:19
+msgid "Ensure that you can see your photo and read your name"
+msgstr "Pastikan bahwa anda dapat melihat foto anda dan membaca nama anda"
+
+#: lms/templates/verify_student/id_photo_step.underscore:20
+msgid "Make sure your ID is well-lit"
+msgstr "Pastikan kartu identitas Anda terlihat dengan jelas."
+
+#: lms/templates/verify_student/id_photo_step.underscore:22
+#, python-format
+msgid "Once in position, use the camera button %(icon)s to capture your ID"
+msgstr "Begitu dalam posisi, gunakan tombol kamera %(icon)s untuk mengambil foto kartu identitas Anda."
+
+#: lms/templates/verify_student/id_photo_step.underscore:24
+#: lms/templates/verify_student/incourse_reverify.underscore:23
+msgid "Use the retake photo button if you are not pleased with your photo"
+msgstr "Gunakan tombol Foto Ulang jika Anda tidak puas dengan hasil foto Anda"
+
+#: lms/templates/verify_student/image_input.underscore:1
+msgid "Preview of uploaded image"
+msgstr "Preview dari image yang diunggah"
+
+#: lms/templates/verify_student/image_input.underscore:3
+msgid "Upload an image or capture one with your web or phone camera."
+msgstr "Unggah image atau ambil foto dengan webcam atau kamera ponsel Anda."
+
+#: lms/templates/verify_student/incourse_reverify.underscore:5
+msgid ""
+"Use your webcam to take a photo of your face. We will match this photo with "
+"the photo on your ID."
+msgstr "Gunakan webcam Anda untuk mengambil foto wajah Anda. Kami akan mencocokkan foto ini dengan foto pada kartu identitas Anda."
+
+#: lms/templates/verify_student/incourse_reverify.underscore:17
+msgid "Make sure your face is well-lit"
+msgstr "Pastikan wajah Anda terlihat dengan jelas."
+
+#: lms/templates/verify_student/incourse_reverify.underscore:18
+msgid "Be sure your entire face is inside the frame"
+msgstr "Pastikan seluruh wajah anda berada didalam frame"
+
+#: lms/templates/verify_student/incourse_reverify.underscore:20
+#, python-format
+msgid "Once in position, use the camera button %(icon)s to capture your photo"
+msgstr "Begitu dalam posisi, gunakan tombol kamera %(icon)s untuk mengambil foto anda "
+
+#: lms/templates/verify_student/incourse_reverify.underscore:22
+msgid "Can we match the photo you took with the one on your ID?"
+msgstr "Apakah kami bisa mencocokkan foto yang Anda ambil dengan foto pada kartu identitas Anda?"
+
+#: lms/templates/verify_student/incourse_reverify.underscore:47
+msgid "Submit"
+msgstr "Kirim"
+
+#: lms/templates/verify_student/intro_step.underscore:6
+#, python-format
+msgid "Thanks for returning to verify your ID in: %(courseName)s"
+msgstr "Terima kasih telah kembali ke verifikasi ID Anda pada: %(courseName)s"
+
+#: lms/templates/verify_student/intro_step.underscore:15
+#: lms/templates/verify_student/make_payment_step.underscore:31
+msgid ""
+"You need to activate your account before you can enroll in courses. Check "
+"your inbox for an activation email. After you complete activation you can "
+"return and refresh this page."
+msgstr "Anda harus mengaktifkan akun Anda sebelum mendaftar pada kursus-kursus. Periksa inbox Anda untuk email aktivasi. Setelah Anda menyelesaikan aktivasi, Anda dapat kembali dan refresh halaman ini."
+
+#: lms/templates/verify_student/intro_step.underscore:27
+#: lms/templates/verify_student/make_payment_step.underscore:44
+#: lms/templates/verify_student/payment_confirmation_step.underscore:87
+msgid "Activate Your Account"
+msgstr "Aktifkan akun Anda"
+
+#: lms/templates/verify_student/intro_step.underscore:34
+#: lms/templates/verify_student/make_payment_step.underscore:51
+msgid "Check Your Email"
+msgstr "Periksa email anda"
+
+#: lms/templates/verify_student/intro_step.underscore:41
+#: lms/templates/verify_student/payment_confirmation_step.underscore:105
+msgid "Photo ID"
+msgstr "Foto kartu identitas"
+
+#: lms/templates/verify_student/intro_step.underscore:49
+msgid ""
+"A driver's license, passport, or other government-issued ID with your name "
+"and photo"
+msgstr "SIM, paspor, atau ID yg diterbitkan oleh pemerintah dengan nama dan foto anda"
+
+#: lms/templates/verify_student/make_payment_step.underscore:6
+#, python-format
+msgid "You are enrolling in: %(courseName)s"
+msgstr "Anda sekarang sedang mendaftar pada: %(courseName)s"
+
+#: lms/templates/verify_student/make_payment_step.underscore:13
+#, python-format
+msgid "You are upgrading your enrollment for: %(courseName)s"
+msgstr "Anda sekarang sedang memperbaharui pendaftaran anda untuk: %(courseName)s"
+
+#: lms/templates/verify_student/make_payment_step.underscore:18
+msgid ""
+"You can now enter your payment information and complete your enrollment."
+msgstr "Anda sekarang dapat masuk ke informasi pembayaran dan melengkapi pendaftaran anda"
+
+#: lms/templates/verify_student/make_payment_step.underscore:27
+#, python-format
+msgid ""
+"You can pay now even if you don't have the following items available, but "
+"you will need to have these by %(date)s to qualify to earn a Verified "
+"Certificate."
+msgstr "Anda dapat melakukan pembayaran sekarang walaupun Anda belum memiliki item-item berikut, tetapi Anda harus sudah memiliki item-item ini sebelum %(date)s untuk hak mendapatkan Sertifikat Terverifikasi."
+
+#: lms/templates/verify_student/make_payment_step.underscore:33
+msgid ""
+"You can pay now even if you don't have the following items available, but "
+"you will need to have these to qualify to earn a Verified Certificate."
+msgstr "Anda dapat melakukan pembayaran sekarang walaupun Anda belum memiliki item-item berikut, tetapi Anda harus memiliki item-item ini untuk hak mendapatkan Sertifikat Terverifikasi."
+
+#: lms/templates/verify_student/make_payment_step.underscore:58
+msgid "Government-Issued Photo ID"
+msgstr "Foto kartu identitas terbitan resmi pemerintah"
+
+#: lms/templates/verify_student/make_payment_step.underscore:85
+msgid ""
+"ID-Verification is not required for this Professional Education course."
+msgstr "Verifikasi ID tidak dibutuhkan untuk kursus pendidikan profesional"
+
+#: lms/templates/verify_student/make_payment_step.underscore:86
+msgid ""
+"All professional education courses are fee-based, and require payment to "
+"complete the enrollment process."
+msgstr "Semua kursus pendidikan profesional berbiaya, dan membutuhkan pembayaran untuk menyelesaikan proses pendaftaran."
+
+#: lms/templates/verify_student/make_payment_step.underscore:90
+msgid "You have already verified your ID!"
+msgstr "Anda telah memverifikasi ID anda"
+
+#: lms/templates/verify_student/make_payment_step.underscore:93
+#, python-format
+msgid "Your verification status is good until %(verificationGoodUntil)s."
+msgstr "Status verifikasi Anda valid sampai  %(verificationGoodUntil)s."
+
+#: lms/templates/verify_student/make_payment_step.underscore:104
+msgid "price"
+msgstr "harga"
+
+#: lms/templates/verify_student/payment_confirmation_step.underscore:4
+#, python-format
+msgid "Thank you! We have received your payment for %(courseName)s."
+msgstr "Terima kasih! Kami telah menerima pembayaran Anda untuk%(courseName)s"
+
+#: lms/templates/verify_student/payment_confirmation_step.underscore:81
+msgid "Next Step: Confirm your identity"
+msgstr "Langkah berikutnya: konfirmasi identitas Anda"
+
+#: lms/templates/verify_student/payment_confirmation_step.underscore:94
+msgid "Check your email"
+msgstr "Periksa email anda"
+
+#: lms/templates/verify_student/payment_confirmation_step.underscore:96
+msgid ""
+"You need to activate your account before you can enroll in courses. Check "
+"your inbox for an activation email."
+msgstr "Anda harus mengaktifkan akun Anda sebelum mendaftar pada kursus. Periksa inbox Anda untuk email aktivasi."
+
+#: lms/templates/verify_student/payment_confirmation_step.underscore:113
+msgid ""
+"A driver's license, passport, or government-issued ID with your name and "
+"photo."
+msgstr "SIM, paspor, ID terbitan pemerintah dengan nama dan foto anda"
+
+#: lms/templates/verify_student/reverify_success_step.underscore:2
+msgid "Identity Verification In Progress"
+msgstr "Verifikasi Identitas sedang dalam proses"
+
+#: lms/templates/verify_student/reverify_success_step.underscore:5
+msgid ""
+"We have received your information and are verifying your identity. You will "
+"see a message on your dashboard when the verification process is complete "
+"(usually within 1-2 days). In the meantime, you can still access all "
+"available course content."
+msgstr "Kami telah menerima informasi Anda dan sedang melakukan verifikasi atas identitas Anda. Anda akan melihat pesan pada dashboard Anda ketika proses verifikasi sudah selesai (biasanya dalam waktu 1-2 hari). Dalam jangka waktu itu, Anda tetap dapat mengakses konten kursus yang ada."
+
+#: lms/templates/verify_student/reverify_success_step.underscore:9
+msgid "Return to Your Dashboard"
+msgstr "Kembali ke Dashboard Anda"
+
+#: lms/templates/verify_student/review_photos_step.underscore:3
+msgid "Review Your Photos"
+msgstr "Meninjau foto Anda"
+
+#: lms/templates/verify_student/review_photos_step.underscore:5
+msgid ""
+"Make sure we can verify your identity with the photos and information you "
+"have provided."
+msgstr "Pastikan kami dapat memverifikasi identitas anda dengan foto dan informasi yang telah anda sediakan"
+
+#: lms/templates/verify_student/review_photos_step.underscore:13
+#, python-format
+msgid "Photo of %(fullName)s"
+msgstr "Photo dari %(fullName)s"
+
+#: lms/templates/verify_student/review_photos_step.underscore:18
+#, python-format
+msgid "Photo of %(fullName)s's ID"
+msgstr "Foto dari kartu identitas %(fullName)s's "
+
+#: lms/templates/verify_student/review_photos_step.underscore:25
+msgid "Photo requirements:"
+msgstr "Syarat photo"
+
+#: lms/templates/verify_student/review_photos_step.underscore:27
+msgid "Does the photo of you show your whole face?"
+msgstr "Apakah foto Anda menunjukkan seluruh wajah Anda?"
+
+#: lms/templates/verify_student/review_photos_step.underscore:28
+msgid "Does the photo of you match your ID photo?"
+msgstr "Apakah foto anda sesuai dengan foto ID?"
+
+#: lms/templates/verify_student/review_photos_step.underscore:29
+msgid "Is your name on your ID readable?"
+msgstr "Apakah nama pada ID anda dapat terbaca?"
+
+#: lms/templates/verify_student/review_photos_step.underscore:30
+#, python-format
+msgid "Does the name on your ID match your account name: %(fullName)s?"
+msgstr "Apakah nama pada ID anda sesuai dengan nama akun anda: %(fullName)s?"
+
+#: lms/templates/verify_student/review_photos_step.underscore:34
+msgid "Edit Your Name"
+msgstr "Edit nama Anda"
+
+#: lms/templates/verify_student/review_photos_step.underscore:39
+msgid ""
+"Make sure that the full name on your account matches the name on your ID."
+msgstr "Pastikan bahwa nama lengkap anda pada akun anda sesuai nama pada kartu identitas"
+
+#: lms/templates/verify_student/review_photos_step.underscore:51
+msgid "Photos don't meet the requirements?"
+msgstr "Foto tidak memenuhi syarat?"
+
+#: lms/templates/verify_student/review_photos_step.underscore:53
+msgid "Retake Your Photos"
+msgstr "Ambil ulang foto Anda"
+
+#: lms/templates/verify_student/review_photos_step.underscore:64
+msgid "Before proceeding, please confirm that your details match"
+msgstr "Sebelum proses, silakan konfirmasi bahwa detailnya sesuai"
+
+#: lms/templates/verify_student/review_photos_step.underscore:70
+msgid "Confirm"
+msgstr "Konfirmasi"
+
+#: lms/templates/verify_student/webcam_photo.underscore:4
+msgid ""
+"Don't see your picture? Make sure to allow your browser to use your camera "
+"when it asks for permission."
+msgstr "Tidak dapat melihat gambar anda? Pastikan untuk membolehkan browser anda untuk menggunakan kamera ketika meminta ijin akses"
+
+#: lms/templates/verify_student/webcam_photo.underscore:7
+msgid "Live view of webcam"
+msgstr "Webcam live view"
+
+#: lms/templates/verify_student/webcam_photo.underscore:24
+msgid "Retake Photo"
+msgstr "Ambil ulang foto"
+
+#: lms/templates/verify_student/webcam_photo.underscore:28
+msgid "Take Photo"
+msgstr "Ambil Foto"
